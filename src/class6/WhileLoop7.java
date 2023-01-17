@@ -16,12 +16,6 @@ public class WhileLoop7 {
         }
         System.out.println("***********");
 
-        int number2 = 1;
-        while (number2 <= 16) {
-            if (number % 5 == 0) {//when you divide by 5 there is no remainder
-                System.out.println(number2);
-            }
-            number2++;
-        }
+
     }
 }
