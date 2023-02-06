@@ -13,7 +13,7 @@ public class scannerAndArrays {
       /*  numbers[0]=40; Below code manually store numbers in the array
           numbers[1]=50;
           numbers[2]=60;
-          numbers[3]=70;
+          numbers[3]=70
           numbers[4]=80; */
 
        /* numbers[0]= scanner.nextInt();     Below code take the numbers from user and store them in the array,
